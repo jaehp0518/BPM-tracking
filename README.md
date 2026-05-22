@@ -1,3 +1,4 @@
 # BPM-tracking
 
-https://api.getsong.co/
+
+(https://getsongbpm.com)
